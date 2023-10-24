@@ -1,3 +1,6 @@
+# paddleocr weights
+applications/paddle_ocr/weights
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
